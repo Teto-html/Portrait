@@ -85,6 +85,12 @@ footer p{
   padding-top: 4px;
   margin-bottom: 40px;
 }
+.photo-title{
+  font-family: "Yu incho", "YuMincho", serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  margin-left: 40px;
+}
 .post-date{
   background: #0bd;
   border-radius: 50%;
@@ -112,7 +118,7 @@ footer p{
 }
 .post-title,
 .post-cat{
-  margin-left: 120px;
+  margin-left: 30px;
 }
 article img{
   margin-bottom: 20px;
